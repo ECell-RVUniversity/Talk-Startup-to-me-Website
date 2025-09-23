@@ -169,7 +169,7 @@ export function SponsorsSection() {
                 Let's discuss how we can work together to create meaningful impact in the startup ecosystem.
               </p>
               <Button size="lg" asChild className="group">
-                <a href="mailto:ecell@rvu.edu.in?subject=Partnership%20Inquiry">
+                <a href="mailto:club_ecell@rvu.edu.in?subject=Partnership%20Inquiry">
                   <Mail className="w-4 h-4 mr-2" />
                   Contact Us for Partnership
                 </a>
