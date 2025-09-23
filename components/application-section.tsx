@@ -102,7 +102,7 @@ export function ApplicationSection() {
                   <span className="text-2xl font-bold text-purple-400">2</span>
                 </div>
                 <h4 className="font-semibold text-white mb-2">Mentorship Session</h4>
-                <p className="text-sm text-white/70">1-on-1 guidance for 10 selected teams</p>
+                <p className="text-sm text-white/70">1-on-1 guidance for all 50 Participants</p>
                 <p className="text-xs text-white/50 mt-2">3:00 - 5:00 PM</p>
               </CardContent>
             </Card>
@@ -113,7 +113,7 @@ export function ApplicationSection() {
                   <span className="text-2xl font-bold text-green-400">3</span>
                 </div>
                 <h4 className="font-semibold text-white mb-2">Networking</h4>
-                <p className="text-sm text-white/70">Connect with peers and industry experts</p>
+                <p className="text-sm text-white/70">Connect with peers and industry expert</p>
                 <p className="text-xs text-white/50 mt-2">5:00 - 6:00 PM</p>
               </CardContent>
             </Card>

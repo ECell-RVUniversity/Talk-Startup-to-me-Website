@@ -119,7 +119,7 @@ export function HeroSection() {
 
           <div ref={statusRef} className="flex items-center justify-center gap-2 text-white/80">
             <div className="w-2 h-2 bg-green-500 rounded-full animate-pulse"></div>
-            <span className="text-sm font-medium">All Applications Live!</span>
+            <span>Registration are Live Now!</span>
           </div>
         </div>
       </div>

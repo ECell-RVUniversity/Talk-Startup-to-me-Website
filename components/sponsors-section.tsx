@@ -9,13 +9,13 @@ export function SponsorsSection() {
     {
       icon: Eye,
       title: "Maximize Visibility",
-      description: "Feature your brand across app, website, social media (500K+ reach), newsletters, and event swag.",
+      description: "Feature your brand across app, website, social media (30k+ reach), newsletters, and event swag.",
       color: "text-primary",
     },
     {
       icon: Users,
       title: "Engage & Activate",
-      description: "Host workshops, showcase tech, and integrate product tasks to reach 50,000+ developers directly.",
+      description: "Host workshops, showcase tech, and integrate product tasks to reach  developers directly.",
       color: "text-accent",
     },
     {
