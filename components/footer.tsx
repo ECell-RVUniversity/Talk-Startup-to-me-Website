@@ -20,9 +20,9 @@ export function Footer() {
               asChild 
               className="group"
             >
-              <a href="mailto:ecell@rvu.edu.in">
+              <a href="mailto:club_ecell@rvu.edu.in">
                 <Mail className="w-4 h-4 mr-2" />
-                ecell@rvu.edu.in
+                club_ecell@rvu.edu.in
               </a>
             </Button>
           </div>
