@@ -119,7 +119,7 @@ export function AboutSection() {
               <p className="text-lg text-muted-foreground leading-relaxed mb-8">
                 One of RV University's most vibrant and dynamic student communities. We are dedicated to creating a
                 student-led entrepreneurial ecosystem that fosters trust, collaboration, and meaningful impact with an
-                active 200+ student community.
+                active 600+ student community.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed mb-8">
                 We build a supportive environment where innovation thrives, and students feel truly empowered to begin
