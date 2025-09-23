@@ -186,7 +186,7 @@ export function AboutSection() {
                     <div>
                       <h3 className="font-semibold text-lg mb-2">Our Community</h3>
                       <p className="text-muted-foreground">
-                        Active 200+ student community fostering creativity, resilience, and leadership on campus.
+                        Active 600+ student community fostering creativity, resilience, and leadership on campus.
                       </p>
                     </div>
                   </div>
